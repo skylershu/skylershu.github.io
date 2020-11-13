@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://skylershu.github.io</id>
     <title>Skyler Shu</title>
-    <updated>2020-11-13T16:56:34.452Z</updated>
+    <updated>2020-11-13T17:01:27.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://skylershu.github.io"/>
     <link rel="self" href="https://skylershu.github.io/atom.xml"/>
@@ -51,15 +51,8 @@
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
 </blockquote>
-<h1 id="关于本站-1">🏠 关于本站 1</h1>
-<p>12345</p>
-<h2 id="关于本站-2">🏠 关于本站 2</h2>
-<p>12345</p>
-<h3 id="关于本站-3">🏠 关于本站 3</h3>
-<p>12345</p>
-<h4 id="关于本站-4">🏠 关于本站 4</h4>
-<p>12345<br>
-Skyler Shu</p>
+<h1 id="关于本站">🏠 关于本站</h1>
+<p>Skyler Shu</p>
 <h3 id="博主是谁">👨‍💻 博主是谁</h3>
 <p>Skyler Shu</p>
 <h3 id="兴趣爱好">⛹ 兴趣爱好</h3>
